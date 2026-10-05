@@ -4,10 +4,10 @@ Pequeno módulo em TypeScript que registra as despesas de um mês e gera um rela
 
 ## 1. Como instalar, testar e rodar
 
-npm install          # instala as dependências
-npm test             # roda os testes (Vitest, uma vez e sai)
-npm run dev          # roda o programa (src/index.ts) com o tsx
-npx tsc --noEmit     # confere os tipos sem gerar arquivos
+npm install          - instala as dependências;
+npm test             - roda os testes (Vitest, uma vez e sai);
+npm run dev          - roda o programa (src/index.ts) com o tsx;
+npx tsc --noEmit     - confere os tipos sem gerar arquivos;
 
 
 ## 2. Arquivos de configuração
