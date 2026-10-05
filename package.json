@@ -1,0 +1,28 @@
+{
+  "name": "relatorio-despesas",
+  "version": "1.0.0",
+  "description": "Módulo TypeScript que registra despesas de um mês e gera um relatório por categoria",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "dev": "tsx src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^26.6.4",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "vitest": "^5.0.3"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GHB-Devv/relatorio-despesas.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GHB-Devv/relatorio-despesas/issues"
+  },
+  "homepage": "https://github.com/GHB-Devv/relatorio-despesas#readme"
+}
